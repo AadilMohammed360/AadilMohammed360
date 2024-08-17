@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AadilMohammed360
 - 👀 I’m interested in everything software
-- 🌱 I’m currently learning UI\UX abd Kernal Dev
+- 🌱 I’m currently learning UI\UX and Kernal Dev
 - 💞️ I’m looking to collaborate with No-one yet
 - 📫 How to reach me - Not Available for reach
 - 😄 Pronouns: Exhausted, Tired, Pissed, Impatient
