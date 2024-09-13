@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AadilMohammed360
 - 👀 I’m interested in everything software
 - 🌱 I’m currently learning UI\UX and Kernal Dev
-- 💞️ I’m looking to collaborate with No-one yet
-- 📫 How to reach me - Not Available for reach
-- 😄 Pronouns: Exhausted, Tired, Pissed, Impatient
-- ⚡ Fun fact: I go Alone. I need no help. Im a One Man Organisation
+- 💞️ I prefer to go alone with minimal support
+- 📫 How to reach me - Currently not looking for work
+- 😄 Pronouns: Exhausted, Tired and searching what fits me best
+- ⚡ Fun fact: Im interested in OS, Cloud and Web Dev
 
 <!---
 AadilMohammed360/AadilMohammed360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
