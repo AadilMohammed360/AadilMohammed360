@@ -4,7 +4,7 @@
 - 💞️ I prefer to go alone with minimal support
 - 📫 How to reach me - Currently not looking for work
 - 😄 Pronouns: Exhausted, Tired and searching what fits me best
-- ⚡ Fun fact: Im interested in OS, Cloud and Web Dev
+- ⚡ Fun fact: Im interested in Kernel-(Win,Linux) , Cloud and Web Dev
 
 <!---
 AadilMohammed360/AadilMohammed360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
